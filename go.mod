@@ -1,4 +1,4 @@
-module itocpackage
+module github.com/myuza/itocpackage.git 
 
 go 1.17
 
